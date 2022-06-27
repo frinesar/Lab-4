@@ -1,0 +1,92 @@
+2022-06-23 19:40:32.399 MSK [832] ���������:  ����������� PostgreSQL 14.4, compiled by Visual C++ build 1914, 64-bit
+2022-06-23 19:40:32.400 MSK [832] ���������:  ��� ����� ����������� �� ������ IPv6 "::" ������ ���� 5432
+2022-06-23 19:40:32.400 MSK [832] ���������:  ��� ����� ����������� �� ������ IPv4 "0.0.0.0" ������ ���� 5432
+2022-06-23 19:40:32.571 MSK [7712] ���������:  ������� �� ���� ���������: 2022-06-22 20:37:47 MSK
+2022-06-23 19:40:32.692 MSK [832] ���������:  ������� �� ������ ��������� �����������
+2022-06-23 19:46:33.243 MSK [13688] СООБЩЕНИЕ:  не удалось получить данные от клиента: An existing connection was forcibly closed by the remote host.
+	
+2022-06-23 19:51:58.670 MSK [14108] ПРЕДУПРЕЖДЕНИЕ:  PID 7256 не относится к серверному процессу PostgreSQL
+2022-06-23 19:56:34.651 MSK [5324] СООБЩЕНИЕ:  не удалось получить данные от клиента: An existing connection was forcibly closed by the remote host.
+	
+2022-06-23 20:30:26.442 MSK [18816] СООБЩЕНИЕ:  не удалось получить данные от клиента: An existing connection was forcibly closed by the remote host.
+	
+2022-06-23 20:31:19.053 MSK [6812] ПРЕДУПРЕЖДЕНИЕ:  PID 6232 не относится к серверному процессу PostgreSQL
+2022-06-23 20:36:36.735 MSK [14180] СООБЩЕНИЕ:  не удалось получить данные от клиента: An existing connection was forcibly closed by the remote host.
+	
+2022-06-23 20:37:06.100 MSK [14536] СООБЩЕНИЕ:  не удалось получить данные от клиента: An existing connection was forcibly closed by the remote host.
+	
+2022-06-23 20:37:38.392 MSK [10640] СООБЩЕНИЕ:  не удалось получить данные от клиента: An existing connection was forcibly closed by the remote host.
+	
+2022-06-23 20:39:32.890 MSK [17200] СООБЩЕНИЕ:  не удалось получить данные от клиента: An existing connection was forcibly closed by the remote host.
+	
+2022-06-23 20:40:05.966 MSK [19008] СООБЩЕНИЕ:  не удалось получить данные от клиента: An existing connection was forcibly closed by the remote host.
+	
+2022-06-23 20:41:02.604 MSK [18920] СООБЩЕНИЕ:  не удалось получить данные от клиента: An existing connection was forcibly closed by the remote host.
+	
+2022-06-23 20:41:41.686 MSK [14576] СООБЩЕНИЕ:  не удалось получить данные от клиента: An existing connection was forcibly closed by the remote host.
+	
+2022-06-23 20:41:53.481 MSK [5388] СООБЩЕНИЕ:  не удалось получить данные от клиента: An existing connection was forcibly closed by the remote host.
+	
+2022-06-23 20:42:47.909 MSK [18736] СООБЩЕНИЕ:  не удалось получить данные от клиента: An existing connection was forcibly closed by the remote host.
+	
+2022-06-23 20:45:04.738 MSK [15396] СООБЩЕНИЕ:  не удалось получить данные от клиента: An existing connection was forcibly closed by the remote host.
+	
+2022-06-23 20:45:14.488 MSK [8380] СООБЩЕНИЕ:  не удалось получить данные от клиента: An existing connection was forcibly closed by the remote host.
+	
+2022-06-23 20:45:38.889 MSK [12712] СООБЩЕНИЕ:  не удалось получить данные от клиента: An existing connection was forcibly closed by the remote host.
+	
+2022-06-23 20:46:18.039 MSK [17496] СООБЩЕНИЕ:  не удалось получить данные от клиента: An existing connection was forcibly closed by the remote host.
+	
+2022-06-23 20:47:22.155 MSK [5284] СООБЩЕНИЕ:  не удалось получить данные от клиента: An existing connection was forcibly closed by the remote host.
+	
+2022-06-23 20:48:11.425 MSK [9800] СООБЩЕНИЕ:  не удалось получить данные от клиента: An existing connection was forcibly closed by the remote host.
+	
+2022-06-23 20:48:47.174 MSK [10824] СООБЩЕНИЕ:  не удалось получить данные от клиента: An existing connection was forcibly closed by the remote host.
+	
+2022-06-23 20:49:41.693 MSK [9484] СООБЩЕНИЕ:  не удалось получить данные от клиента: An existing connection was forcibly closed by the remote host.
+	
+2022-06-23 20:50:15.610 MSK [9844] СООБЩЕНИЕ:  не удалось получить данные от клиента: An existing connection was forcibly closed by the remote host.
+	
+2022-06-23 20:51:36.083 MSK [2228] СООБЩЕНИЕ:  не удалось получить данные от клиента: An existing connection was forcibly closed by the remote host.
+	
+2022-06-23 20:52:26.856 MSK [15796] СООБЩЕНИЕ:  не удалось получить данные от клиента: An existing connection was forcibly closed by the remote host.
+	
+2022-06-23 20:52:53.461 MSK [17944] СООБЩЕНИЕ:  не удалось получить данные от клиента: An existing connection was forcibly closed by the remote host.
+	
+2022-06-23 20:53:23.196 MSK [12692] СООБЩЕНИЕ:  не удалось получить данные от клиента: An existing connection was forcibly closed by the remote host.
+	
+2022-06-23 20:58:28.130 MSK [19188] СООБЩЕНИЕ:  не удалось получить данные от клиента: An existing connection was forcibly closed by the remote host.
+	
+2022-06-23 21:00:22.341 MSK [17580] СООБЩЕНИЕ:  не удалось получить данные от клиента: An existing connection was forcibly closed by the remote host.
+	
+2022-06-23 21:00:35.173 MSK [4808] СООБЩЕНИЕ:  не удалось получить данные от клиента: An existing connection was forcibly closed by the remote host.
+	
+2022-06-23 21:01:45.557 MSK [18812] СООБЩЕНИЕ:  не удалось получить данные от клиента: An existing connection was forcibly closed by the remote host.
+	
+2022-06-23 21:02:05.932 MSK [2316] СООБЩЕНИЕ:  не удалось получить данные от клиента: An existing connection was forcibly closed by the remote host.
+	
+2022-06-23 21:02:51.122 MSK [9728] СООБЩЕНИЕ:  не удалось получить данные от клиента: An existing connection was forcibly closed by the remote host.
+	
+2022-06-23 21:04:30.588 MSK [18268] СООБЩЕНИЕ:  не удалось получить данные от клиента: An existing connection was forcibly closed by the remote host.
+	
+2022-06-23 21:04:42.615 MSK [13376] СООБЩЕНИЕ:  не удалось получить данные от клиента: An existing connection was forcibly closed by the remote host.
+	
+2022-06-23 21:05:52.959 MSK [7988] СООБЩЕНИЕ:  не удалось получить данные от клиента: An existing connection was forcibly closed by the remote host.
+	
+2022-06-23 21:10:44.213 MSK [6848] СООБЩЕНИЕ:  не удалось получить данные от клиента: An existing connection was forcibly closed by the remote host.
+	
+2022-06-23 21:11:27.296 MSK [18160] СООБЩЕНИЕ:  не удалось получить данные от клиента: An existing connection was forcibly closed by the remote host.
+	
+2022-06-23 21:12:35.618 MSK [10420] СООБЩЕНИЕ:  не удалось получить данные от клиента: An existing connection was forcibly closed by the remote host.
+	
+2022-06-23 21:12:49.315 MSK [3376] СООБЩЕНИЕ:  не удалось получить данные от клиента: An existing connection was forcibly closed by the remote host.
+	
+2022-06-23 21:13:15.582 MSK [3576] СООБЩЕНИЕ:  не удалось получить данные от клиента: An existing connection was forcibly closed by the remote host.
+	
+2022-06-23 21:13:40.920 MSK [18112] СООБЩЕНИЕ:  не удалось получить данные от клиента: An existing connection was forcibly closed by the remote host.
+	
+2022-06-23 21:14:19.500 MSK [9264] ПРЕДУПРЕЖДЕНИЕ:  PID 16584 не относится к серверному процессу PostgreSQL
+2022-06-23 21:15:37.953 MSK [2280] СООБЩЕНИЕ:  не удалось получить данные от клиента: An existing connection was forcibly closed by the remote host.
+	
+2022-06-23 21:31:42.179 MSK [15432] СООБЩЕНИЕ:  не удалось получить данные от клиента: An existing connection was forcibly closed by the remote host.
+	
